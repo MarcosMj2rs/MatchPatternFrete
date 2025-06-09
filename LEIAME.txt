@@ -1,0 +1,27 @@
+Sistema de Frete E-commerce
+
+O cliente pode escolher entre os seguintes tipos de frete:
+
+1 - Retirada na loja - o cliente retira o produto na loja física.(frete grátis)
+2 - Entrega normal - o produto é entregue no endereço do cliente dependendo da distância (quanto maior, mais carpega):
+	• Até 20 km - R$ 15,00
+	• Acima de 20 km - R$ 25,00
+	• Para cada KM excedente, cobra-se R$ 1,50 por KM.
+3 - Entrega Agendada - o cliente agenda a entrega e, se for domingo, tem uma taxa adicional:
+	• Se for domingo, cobra taxa de R$ 50,00.
+	• Se for qualquer outro dia cobra uma taxa de R$ 20,00.
+
+=======================================================================================================================
+
+E-commerce Shipping System
+
+The customer can choose between the following shipping types:
+
+1 - Pickup in store - the customer picks up the product at the physical store. (free shipping)
+2 - Standard delivery - the product is delivered to the customer's address depending on the distance (the greater the distance, the more freight):
+	• Up to 20 km - R$ 15.00
+	• Over 20 km - R$ 25.00
+	• For each additional km, a charge of R$ 1.50 per km is made.
+3 - Scheduled delivery - the customer schedules the delivery and, if it is Sunday, there is an additional fee:
+	• If it is Sunday, a charge of R$ 50.00 is made.
+	• If it is any other day, a charge of R$ 20.00 is made.
